@@ -1,0 +1,60 @@
+--- Sistema de Registro de Estudiantes Con Metodo Estaticos ---
+1. Registrar estudiante
+2. Mostrar estudiantes
+3. Buscar estudiante por matrícula
+4. Eliminar estudiante
+0. Salir
+Selecciona una opcion: 1
+Nombre: Prueba
+Edad: 19
+Matrícula: 3456
+Carrera: IA
+Estudiante registrado
+
+--- Sistema de Registro de Estudiantes Con Metodo Estaticos ---
+1. Registrar estudiante
+2. Mostrar estudiantes
+3. Buscar estudiante por matrícula
+4. Eliminar estudiante
+0. Salir
+Selecciona una opcion: 2
+
+--- Lista de Estudiantes ---
+Nombre: Prueba
+Edad: 19
+Matricula: 3456
+Carrera: IA
+-----------------------------
+
+--- Sistema de Registro de Estudiantes Con Metodo Estaticos ---
+1. Registrar estudiante
+2. Mostrar estudiantes
+3. Buscar estudiante por matrícula
+4. Eliminar estudiante
+0. Salir
+Selecciona una opcion: 3
+Ingresa la matrícula a buscar: 3456
+Nombre: Prueba
+Edad: 19
+Matricula: 3456
+Carrera: IA
+
+--- Sistema de Registro de Estudiantes Con Metodo Estaticos ---
+1. Registrar estudiante
+2. Mostrar estudiantes
+3. Buscar estudiante por matrícula
+4. Eliminar estudiante
+0. Salir
+Selecciona una opcion: 4
+ingresa la matrícula del estudiante a eliminar: 3456
+Estudiante eliminado
+
+--- Sistema de Registro de Estudiantes Con Metodo Estaticos ---
+1. Registrar estudiante
+2. Mostrar estudiantes
+3. Buscar estudiante por matrícula
+4. Eliminar estudiante
+0. Salir
+Selecciona una opcion: 3
+Ingresa la matrícula a buscar: 3456
+ no se a encontrado
