@@ -1,0 +1,80 @@
+prueba 1 (si adivina el numero)
+
+HOLAaaa VAMOS A JUGAR USANDO METODOS ESTATICOS
+Adivina un numero entre 1 y 100
+Tienes 10 intentos
+
+Intento 1: 37
+El numero es menor
+Intentos restantes: 9
+
+Intento 2: 25
+El numero es mayor
+Intentos restantes: 8
+
+Intento 3: 30
+El numero es menor
+Intentos restantes: 7
+
+Intento 4: 27
+El numero es mayor
+Intentos restantes: 6
+
+Intento 5: 28
+El numero es mayor
+Intentos restantes: 5
+
+Intento 6: 29
+
+¡Felicidades! Adivinaste el numero en 6 intentos
+BUILD SUCCESSFUL (total time: 32 seconds)
+
+------------------------------------------------------
+
+prueba 2 (no se adivina el numero)
+
+HOLAaaa VAMOS A JUGAR USANDO METODOS ESTATICOS
+Adivina un numero entre 1 y 100
+Tienes 10 intentos
+
+Intento 1: 1
+El numero es mayor
+Intentos restantes: 9
+
+Intento 2: 2
+El numero es mayor
+Intentos restantes: 8
+
+Intento 3: 3
+El numero es mayor
+Intentos restantes: 7
+
+Intento 4: 4
+El numero es mayor
+Intentos restantes: 6
+
+Intento 5: 5
+El numero es mayor
+Intentos restantes: 5
+
+Intento 6: 6
+El numero es mayor
+Intentos restantes: 4
+
+Intento 7: 7
+El numero es mayor
+Intentos restantes: 3
+
+Intento 8: 8
+El numero es mayor
+Intentos restantes: 2
+
+Intento 9: 9
+El numero es mayor
+Intentos restantes: 1
+
+Intento 10: 10
+
+¡se acabaron los intentos perdiste :( !
+El numero era: 73
+BUILD SUCCESSFUL (total time: 16 seconds)
