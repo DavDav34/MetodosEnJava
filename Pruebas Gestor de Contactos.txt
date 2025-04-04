@@ -1,0 +1,116 @@
+prueba 1 (agregar contactos)
+
+Contactos cargados correctamente.
+
+--- Gestor de Contactos En Java Usando Metodos ---
+1. Agregar Contacto
+2. Mostrar Contactos
+3. Buscar Contacto
+4. Eliminar Contacto
+5. Guardar Contactos
+6. Cargar Contactos
+0. Salir
+selecciona una opcion:1
+
+Ingresa tu nombre (sin espacios): david
+Ingrese tu telefono: 5589157542
+Ingrese tu correo: davo@gmail.com
+---Contacto agregado exitosamente---.
+
+--- Gestor de Contactos En Java Usando Metodos ---
+1. Agregar Contacto
+2. Mostrar Contactos
+3. Buscar Contacto
+4. Eliminar Contacto
+5. Guardar Contactos
+6. Cargar Contactos
+0. Salir
+selecciona una opcion:1
+
+Ingresa tu nombre (sin espacios): lucia
+Ingrese tu telefono: 5546378924
+Ingrese tu correo: luci@gmail.com
+---Contacto agregado exitosamente---.
+
+--- Gestor de Contactos En Java Usando Metodos ---
+1. Agregar Contacto
+2. Mostrar Contactos
+3. Buscar Contacto
+4. Eliminar Contacto
+5. Guardar Contactos
+6. Cargar Contactos
+0. Salir
+selecciona una opcion:5
+
+Se guardaron correctamente. // usar la opcion 5 para guardar en el archivo despues de haberlos agregado
+
+--------------------------------------------------------
+
+prueba 2 (mostrar contactos)
+
+--- Gestor de Contactos En Java Usando Metodos ---
+1. Agregar Contacto
+2. Mostrar Contactos
+3. Buscar Contacto
+4. Eliminar Contacto
+5. Guardar Contactos
+6. Cargar Contactos
+0. Salir
+selecciona una opcion:2
+
+---Lista de contactos:---
+1. Nombre: david, Telefono: 5589157542, Email: davo@gmail.com
+2. Nombre: lucia, Telefono: 5546378924, Email: luci@gmail.com
+
+--------------------------------------------------------
+
+prueba 3 (buscar contacto)
+
+--- Gestor de Contactos En Java Usando Metodos ---
+1. Agregar Contacto
+2. Mostrar Contactos
+3. Buscar Contacto
+4. Eliminar Contacto
+5. Guardar Contactos
+6. Cargar Contactos
+0. Salir
+selecciona una opcion:3
+
+Ingresa el nombre a buscar: lucia
+Contacto encontrado: Nombre: lucia, Telefono: 5546378924, Email: luci@gmail.com
+
+--------------------------------------------------------
+
+prueba 4(eliminar contacto)
+
+---eliminamos el contacto del archivo y luego 
+mostramos los contactos para verificar que se elimino---
+
+--- Gestor de Contactos En Java Usando Metodos ---
+1. Agregar Contacto
+2. Mostrar Contactos
+3. Buscar Contacto
+4. Eliminar Contacto
+5. Guardar Contactos
+6. Cargar Contactos
+0. Salir
+selecciona una opcion:4
+
+Ingresa el nombre del cotacto a eliminar: lucia
+Se elimino el contacto.
+
+--- Gestor de Contactos En Java Usando Metodos ---
+1. Agregar Contacto
+2. Mostrar Contactos
+3. Buscar Contacto
+4. Eliminar Contacto
+5. Guardar Contactos
+6. Cargar Contactos
+0. Salir
+selecciona una opcion:2
+
+---Lista de contactos:---
+1. Nombre: david, Telefono: 5589157542, Email: davo@gmail.com
+
+
+
